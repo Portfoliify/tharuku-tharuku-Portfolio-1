@@ -40,17 +40,12 @@ const Index = () => {
   const  pic16Source = pic16
 
   //Content
-  const mail = "samples@gmail.com";
-  const insta = "https://www.instagram.com"
-  const linkedIn = "https://www.linkedin.com"
-  const para = "Hi I’m Daniel Aristizábal, but call me Dani. I work as an art director " +
-      "and digital artist working across the fields of arts, fashion and " +
-      "entertainment, bringing forward new technologies to create stunning " +
-      "and inspiring artworks"
 
-  
-
-  //Content
+        const insta = "https://instagram.com/gaaji";
+        const mail = "ggaji@email.com";
+        const linkedIn = "false";
+        const para = "Hi I’m rehman gaaji, but call me gaaji. I work as an art director and digital artist working across the fields of arts, fashion and entertainment, bringing forward new technologies to create stunning and inspiring artworks";
+//Content
   const email = `mailto:${mail}`;
   const router = createBrowserRouter([
     {
